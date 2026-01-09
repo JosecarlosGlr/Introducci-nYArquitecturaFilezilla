@@ -2,7 +2,7 @@
 
 
 
-###Esquema activo de flujo de conexión entre clinte y servidor
+### Esquema activo de flujo de conexión entre clinte y servidor
 
       CLIENTE                                 SERVIDOR
       +------------------+                    +------------------+
