@@ -38,7 +38,7 @@
 
 
 
-| Característica | Modo Activo (Active) | Modo Pasivo (Passive) |
+| Característica | Modo Activo | Modo Pasivo |
 | :--- | :--- | :--- |
 | **Canal de Control** | Lo inicia el **Cliente** (al puerto 21). | Lo inicia el **Cliente** (al puerto 21). |
 | **Canal de Datos** | Lo inicia el **Servidor** (desde el puerto 20). | Lo inicia el **Cliente** (a un puerto aleatorio del servidor). |
